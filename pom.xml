@@ -67,16 +67,6 @@
             <scope>test</scope>
         </dependency>
         <dependency>
-            <groupId>com.cleo.api</groupId>
-            <artifactId>lexbean</artifactId>
-            <version>${cleo.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>com.cleo.api</groupId>
-            <artifactId>LexAPI_POJO</artifactId>
-            <version>${cleo.version}</version>
-        </dependency>
-        <dependency>
             <groupId>com.cleo.product</groupId>
             <artifactId>LexiCom</artifactId>
             <version>${cleo.version}</version>
